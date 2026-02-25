@@ -20,4 +20,4 @@ How to use:
 
 *Just Install the required packages and you can run like a normal python code.
 
-*You can give some commands like open youtube, play song open, vs code like that
+*You can give some commands like jarvis open youtube, jarvis play sunflower song, jarvis open vs code like that you should use that name jarvis and then your command
