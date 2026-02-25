@@ -1,0 +1,7 @@
+pyttsx3
+pywhatkit
+SpeechRecognition
+scikit-learn
+PyAutoGUI
+wikipedia
+PyAudio
