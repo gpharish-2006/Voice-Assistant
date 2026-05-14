@@ -1,7 +1,7 @@
+streamlit
+speechrecognition
 pyttsx3
-pywhatkit
-SpeechRecognition
-scikit-learn
-PyAutoGUI
 wikipedia
-PyAudio
+pywhatkit
+scikit-learn
+pyaudio
