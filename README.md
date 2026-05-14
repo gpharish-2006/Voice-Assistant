@@ -46,14 +46,14 @@ sudo apt install -y portaudio19-dev python3-dev xdotool ALSA-utils espeak
 
 ## Installation & Environment Setup with `uv`
 
-### Step 0: Install uv
+### Step 1: Install uv
 
 ```bash
 pip install uv      #For Windows
 pip3 install uv     #For Linux
 ```
 
-### Step 1: Initialize the Environment
+### Step 2: Initialize the Environment
 Navigate to your project root folder and create a virtual environment:
 ```bash
 uv init voice-assistant
@@ -61,7 +61,7 @@ cd voice-assistant
 uv venv
 ```
 
-### Step 2: Install Project Dependencies
+### Step 3: Install Project Dependencies
 Use `uv pip` to resolve and pull everything specified in your `requirements.txt`:
 ```bash
 uv add -r requirements.txt
